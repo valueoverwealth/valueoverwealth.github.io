@@ -1,0 +1,32 @@
+.top-content {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+h1:after {
+    left: calc(50% - 30px);
+}
+
+a {
+    color: #ffffff;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.content-1 {
+    background-color: #5eadbb;
+    color: #ffffff;
+}
+
+.content-3 {
+    background-color: #8693bc;
+    color: #ffffff;
+}
+
+.profile-image{
+    width: 40%;
+}
+
