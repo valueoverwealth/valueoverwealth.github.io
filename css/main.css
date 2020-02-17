@@ -8,7 +8,7 @@ h1:after {
 }
 
 a {
-    color: #ffffff;
+    color: #1F5673;
 }
 
 p {
@@ -17,16 +17,21 @@ p {
 }
 
 .content-1 {
-    background-color: #5eadbb;
+    background-color: #1F5673;
     color: #ffffff;
+}
+
+.content-2 {
+    background-color: #E8E7DE;
+    color: #1F5673;
 }
 
 .content-3 {
-    background-color: #8693bc;
-    color: #ffffff;
+    background-color: #F9F9F4;
+    color: #1F5673;
 }
 
 .profile-image{
-    width: 40%;
+    width: 20%;
 }
 
